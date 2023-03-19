@@ -6,6 +6,3 @@ Here are some ideas to get you started:
 - 💻 Things That i know :-  JAVA | C | C++ | HTML | CSS | JAVASCRIPT | jQuery | PHP | REACT JS | NODE JS | Bootstrap | Tailwind CSS | MongoDB
 - 😄 Pronouns: He/His
 
-
-
-My Name is Jay Savaliya.
