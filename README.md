@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💻 Things That i know :-  C | C++ | JAVA | HTML | CSS | JAVASCRIPT | jQuery | PHP | REACT JS | NODE JS | Bootstrap | Tailwind CSS | MongoDB
 - 😄 Pronouns: He/His
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savaliyajay" alt="savaliyajay" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
