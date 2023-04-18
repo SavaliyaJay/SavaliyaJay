@@ -74,5 +74,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savaliyajay&show_icons=true&locale=en" alt="savaliyajay" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SavaliyaJay&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SavaliyaJay)](https://git.io/streak-stats)
 
