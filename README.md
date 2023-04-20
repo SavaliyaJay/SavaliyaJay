@@ -70,9 +70,15 @@ Here are some ideas to get you started:
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savaliyajay&show_icons=true&locale=en&layout=compact" alt="savaliyajay" /></p>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savaliyajay&show_icons=true&locale=en&layout=compact" alt="savaliyajay" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savaliyajay&show_icons=true&locale=en" alt="savaliyajay" /></p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=savaliyajay&show_icons=true&locale=en" alt="savaliyajay" />
+  </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SavaliyaJay)](https://git.io/streak-stats)
+  <p>
+    <img src="https://streak-stats.demolab.com?user=SavaliyaJay" />
+  </p>
 
