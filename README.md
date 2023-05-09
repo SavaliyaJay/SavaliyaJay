@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🙋‍♂️ All about me is at **[My Website]([https://soumyajit.vercel.app/](https://portfolio-savaliyajay.vercel.app/))**
+- 🙋‍♂️ All about me is at **[My Website](https://portfolio-savaliyajay.vercel.app/)**
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning **REACT JS || Tailwind CSS**
 - 💻 Things That i know :-  C | C++ | JAVA | HTML | CSS | JAVASCRIPT | jQuery | PHP | REACT JS | NODE JS | Bootstrap | Tailwind CSS | MongoDB
