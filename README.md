@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jay Savaliya</h1>
 <h3 align="center">A passionate web developer</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savaliyajay&label=Profile%20views&color=0e75b6&style=flat" alt="savaliyajay" /> </p>
 
 # 💫 About Me:
-🙋‍♂️ All about me is on My Website<br>🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Node JS<br>😄 Pronouns: He/His
+🙋‍♂️ All about me is on <a href="https://portfolio-savaliyajay.vercel.app/" >My Website</a><br>🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Node JS<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
