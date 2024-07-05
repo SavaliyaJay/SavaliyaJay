@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savaliyajay&label=Profile%20views&color=0e75b6&style=flat" alt="savaliyajay" /> </p>
 
 # 💫 About Me:
-🙋‍♂️ All about me is on <a href="https://jaysavaliya.vercel.app/" >My Website</a><br>🔭 I’m currently working on Web Development<br>🌱 I’m currently learning DevOps<br>😄 Pronouns: He/His
+🙋‍♂️ All about me is on <a href="https://jaysavaliya.vercel.app/" >My Website</a>🔭 I’m currently working on project called as <a href="[https://jaysavaliya.vercel.app/](https://inter-view-ai.vercel.app/)" >Interview.AI</a><br>🔭 I’m currently working on Web Development<br>🌱 I’m currently learning DevOps<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
